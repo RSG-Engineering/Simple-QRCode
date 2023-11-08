@@ -6,4 +6,4 @@ This operates under the assumption that the text is pulled from a file and the p
 	Dim qrCodeImage As Bitmap = qrCode.GetGraphic(8) 
 	The 8 determines the size of the image which may also be subject to chage 
  
- I Have also Inluded the Imputs and Outputs from the code 
+ 	I Have also Inluded the Imputs and Outputs from the code 
